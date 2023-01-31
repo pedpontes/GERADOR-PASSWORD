@@ -1,5 +1,5 @@
 ---------------------------------------
- DESENVOLVIDO POR PEDRO PONTES - SENAI
+     DESENVOLVIDO POR PEDRO PONTES
 ---------------------------------------
 
 Instruções para usar o script de gerador de senha.
