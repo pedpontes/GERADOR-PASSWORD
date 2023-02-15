@@ -1,4 +1,4 @@
-# Gerador de senhas imquebraveis?
+# Gerador de senhas imquebravel?
 
 E aí, meu consagrado, beleza? Bora criar senhas maneiras com esse script irado aqui?
 
